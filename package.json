@@ -65,7 +65,7 @@
         "react-hot-loader": "^4.3.12",
         "serve-static": "^1.10.2",
         "webpack": "^4.7.0",
-        "webpack-bundle-analyzer": "^2.11.1",
+        "webpack-bundle-analyzer": "^3.3.2",
         "webpack-cli": "^3.1.2",
         "webpack-dev-middleware": "^1.8.4",
         "webpack-hot-middleware": "^2.13.1",
